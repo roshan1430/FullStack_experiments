@@ -1,0 +1,6 @@
+Git Version Control Lab Notes
+
+1. Repository initialized using git init.
+2. main.java created with basic Java program.
+3. notes.txt created to document project steps.
+4. Files will be tracked and committed using Git.
